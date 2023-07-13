@@ -1,2 +1,2 @@
 # library-management-system
-A library management system built using Java Swing for the graphical user interface and MS Access for database management.
+A library management system built using Java Swing for the graphical user interface and MS Access for database management. This system allows for efficient management of library resources, including books, borrowers, and transactions. It provides functionalities such as adding, updating, and deleting books, tracking borrower information, and managing lending and returning of books. The system utilizes Java Swing for an intuitive user interface and MS Access as the backend database. The repository contains the complete source code.
